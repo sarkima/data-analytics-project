@@ -4,6 +4,17 @@
 
 This project looked at the data on global defense companies to see if it could uncover insights into world complicts, geopolitical alliances, economic and military groupings, and market trends. The project looked at three datasets on global defense manufacturers that covers revenue rankings, historic stock data, and segregation by country, regional, economical and political blocs.
 
+## Project Goals
+
+The goals of the project are:
+ -Enhance my understanding of data analytics and how to apply it to real-world problems
+ -Gain some practical experience into chosing the right tools and libraries for a given problem
+ -Infer some insights into the correlationships between global defense manufacturers, geopolitical alliances, regional groupings and conflicts around the world
+
+## Target Audience
+
+Any one interested in learning or applying data analytics to gain insights into their specific problem or interested in gaining insights into the correlation between global defense manufacturers, geopolitical alliances, economic groupings and conflicts around the world.
+
 ## Project Methodology
 
 The methodology used for the project was to source data from Kaggle, then break down the project tasks into items that could be managed through GitHub Projects.

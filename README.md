@@ -4,6 +4,17 @@
 
 This project looked at the data on global defense companies to see if it could uncover insights into world complicts, geopolitical alliances, economic and military groupings, and market trends. The project looked at three datasets on global defense manufacturers that covers revenue rankings, historic stock data, and segregation by country, regional, economical and political blocs.
 
+## Project Goals
+
+The goals of the project are:
+ -Enhance my understanding of data analytics and how to apply it to real-world problems
+ -Gain some practical experience into chosing the right tools and libraries for a given problem
+ -Infer some insights into the correlationships between global defense manufacturers, geopolitical alliances, regional groupings and conflicts around the world
+
+## Target Audience
+
+Any one interested in learning or applying data analytics to gain insights into their spe
+
 ## Data Sourcing
 
 The datasets for the project was sourced at Kaggle. The dataset is based on the SIPRI Top 100 Arms-Producing and Military Services Companies (2023) and was kindly provided by Shreyansh Dangi at the following link [Top 100 Defense Companies Historical Data](https://www.kaggle.com/datasets/shreyanshdangi/worlds-top-100-defense-companies-historical-data?select=All+Listed+Companies+Combined+Historical++Data.csv)
